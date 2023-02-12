@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #302C42;
+}
+
+.text {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.conainer-imgcard {
+    background-color: #211e2b;
+}
+
+.card {
+    background-image: url("/icons/Rectangle9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-join{
+    background-image: url("/icons/Rectangle9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ff {
+    background-image: url("/icons/AdobeStock_506890383_Preview.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
