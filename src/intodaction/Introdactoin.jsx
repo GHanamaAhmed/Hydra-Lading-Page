@@ -43,7 +43,7 @@ export default memo (function Introdaction() {
                     amet nisl suscipit adipiscing bibendum. Leo a diam
                     sollicitudin tempor.
                 </p>
-                <button className="text-slate-900 font-semibold focus:bg-current py-3 px-10 mx-5 bg-gradient-to-r from-violet-600 to-violet-500 rounded-3xl">LET’S GET IN TOUCH</button>
+                <button className="text-slate-900 font-semibold py-3 px-10 mx-5 bg-gradient-to-r from-violet-600 to-violet-500 rounded-3xl">LET’S GET IN TOUCH</button>
             </div>
         </div>
     )
