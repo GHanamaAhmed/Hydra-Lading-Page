@@ -42,12 +42,12 @@ export default function Swapers() {
             </SwiperSlide>
             <div className="next rounded-full absolute p-1 flex justify-center items-center bottom-0 right-3 z-10 bg-black bg-opacity-20 md:hidden">
                 <div className="rounded-full h-8 w-8 flex justify-center items-center bg-gradient-to-r from-purple-400 to-purple-500">
-                    <img src="/icons/outline/shape.png" alt="" height={10} width={10} />
+                    <img src="./icons/outline/shape.png" alt="" height={10} width={10} />
                 </div>
             </div>
             <div className="prev rounded-full absolute p-1 flex justify-center items-center bottom-0 left-3 z-10 bg-black bg-opacity-20 md:hidden">
                 <div className="rounded-full h-8 w-8 flex justify-center items-center bg-gradient-to-r from-purple-400 to-purple-500">
-                    <img src="/icons/outline/shape-1.png" alt="" height={10} width={10} />
+                    <img src="./icons/outline/shape-1.png" alt="" height={10} width={10} />
                 </div>
             </div>
         </Swiper>

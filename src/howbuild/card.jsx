@@ -13,7 +13,7 @@ export default memo( function Card({ label0, label1, label2 }) {
             <div className="relative">
                 <p className="font-semibold text-slate-100 font-mono">{label1}</p>
                 <p className="font-semibold text-slate-100 font-mono">{label2}</p>
-                <img className="absolute hidden md:block -top-2  left-0 -translate-x-full" src="/icons/arrow-small-right.svg" alt="" height={20} width={40} />
+                <img className="absolute hidden md:block -top-2  left-0 -translate-x-full" src="./icons/arrow-small-right.svg" alt="" height={20} width={40} />
             </div>
         </>
     )

@@ -9,7 +9,7 @@ export default memo (function Howbuild() {
                     <h1 className="text-slate-100 text-3xl font-mono">HOW BUILD</h1>
                     <p className="text-slate-100 text-lg relative font-mono">
                         WITH HYDRA VR?
-                        <img className="hidden md:block absolute top-1/2 -translate-y-1/2 -right-3/4 translate-x-1/2" src="/icons/fleshr1.svg" alt="" /></p>
+                        <img className="hidden md:block absolute top-1/2 -translate-y-1/2 -right-3/4 translate-x-1/2" src="./icons/fleshr1.svg" alt="" /></p>
                 </div>
                 <p className="hidden md:block mx-5 text-slate-100 mb-10 md:w-1/2 text-justify">
                     Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Feugiat
@@ -20,7 +20,7 @@ export default memo (function Howbuild() {
             </div>
             <div className="flex justify-center items-center w-full relative">
                 <Swapers />
-                <img className="absolute top-1/2 right-1/2 translate-x-1/2 -translate-y-2/3 hidden md:block" src="/icons/Vector15.svg" alt="" />
+                <img className="absolute top-1/2 right-1/2 translate-x-1/2 -translate-y-2/3 hidden md:block" src="./icons/Vector15.svg" alt="" />
             </div>
 
         </div>

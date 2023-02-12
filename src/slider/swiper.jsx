@@ -23,7 +23,7 @@ export default memo(function Swipers() {
                 }}
             >
                 <SwiperSlide className='h-full'>
-                    <Slider src={"/icons/Location-Icon.svg"}>
+                    <Slider src={"./icons/Location-Icon.svg"}>
                         <p className="text-xl hidden md:block text-slate-200">
                             Pay Us a Visit
                         </p>
@@ -33,7 +33,7 @@ export default memo(function Swipers() {
                     </Slider>
                 </SwiperSlide>
                 <SwiperSlide className='h-full'>
-                    <Slider src={"/icons/phone-call.svg"}>
+                    <Slider src={"./icons/phone-call.svg"}>
                         <p className="text-xl hidden md:block text-slate-200">
                             Give Us a Call
                         </p>
@@ -43,7 +43,7 @@ export default memo(function Swipers() {
                     </Slider>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Slider src={"/icons/mail.svg"}>
+                    <Slider src={"./icons/mail.svg"}>
                         <p className="text-xl hidden md:block text-slate-200">
                             Send Us a Message
                         </p>

@@ -14,7 +14,7 @@ export default memo (function Introdaction() {
                     <h1 className="text-slate-100 text-3xl">INTRODUCTION</h1>
                     <div className="relative">
                         <p className="text-slate-100 text-xl">TO HYDRA VR</p>
-                        <img className="hidden md:block absolute top-1/2 -translate-y-1/2 -right-3/4 translate-x-1/2" src="/icons/fleshr1.svg" alt="" />
+                        <img className="hidden md:block absolute top-1/2 -translate-y-1/2 -right-3/4 translate-x-1/2" src="./icons/fleshr1.svg" alt="" />
                     </div>
                 </div>
                 <img className="maskgroup w-4/6 md:w-4/6" src="/icons/Maskgroup2.svg" alt="" />
